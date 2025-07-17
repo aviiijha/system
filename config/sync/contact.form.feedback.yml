@@ -1,0 +1,14 @@
+uuid: aa52120c-7472-447f-8014-5bffe9622659
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - iam99avinash@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
